@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepFriedCyber
-- 👀 I’m interested in Python projects, particularly ones involving Data Mining and Semantic Analysis or Search as a Service
+- 👀 I’m interested in Python projects, particularly ones involving Data Mining and Sentiment Analysis or Search as a Service
 - 🌱 I’m currently learning Python, SpaCy, NLP, numpy, NLTK as well as Solidity for smart contracts.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: info@deepfriedcyber.uk
