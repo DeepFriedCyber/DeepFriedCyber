@@ -35,7 +35,7 @@ I use modern LLMs as engineering tools to make research ideas executable and tes
 
 ## Background
 
-Before my current research work, I spent much of my career around enterprise technology and cybersecurity, including roles with **Entrust Datacard**, **CA Technologies** and **Quest Software / Vizioncore**. I also founded **Deep Fried Cyber**, a B2B cybersecurity marketplace that grew to more than 2,500 listed companies.
+Before my current research work, I spent much of my career around enterprise technology and cybersecurity, including roles with **VeriSign**, **PGP**, **Entrust Datacard**, **CA Technologies** and **Quest Software / Vizioncore**. I also founded **Deep Fried Cyber**, a B2B cybersecurity marketplace that grew to more than 2,500 listed companies.
 
 ## Interested in
 
